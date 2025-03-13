@@ -1,3 +1,3 @@
 # New Project
 This project was created from local system.
-This project was created by Simran Swain.
+Created by Simran Swain.
